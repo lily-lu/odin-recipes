@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/12/25/8a/12258aa80d5bbe28120b77537dcf8668.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.title {
+    color:rgb(255, 255, 255);
+    font-family: 'Titan One', cursive;
+    text-align: center;
+    font-size: 50px;
+    padding:0;
+    margin:0;
+    position:relative;
+    bottom: -50px;
+}
+
+.header {
+    color:rgb(153, 117, 51);
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    top: -25px;
+    
+}
+
+.recipes {
+    text-align: center;
+    color: sienna;
+    font-family: 'Titan One', cursive;
+    font-size: 20px;
+}
+
+.kid {
+    display: inline-block;
+    padding: 30px;
+    
+}
