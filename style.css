@@ -14,7 +14,7 @@ body {
     padding:0;
     margin:0;
     position:relative;
-    bottom: -50px;
+    bottom: -10px;
 }
 
 .header {
@@ -23,19 +23,54 @@ body {
     text-align: center;
     font-size: 60px;
     position: relative;
-    top: -25px;
+    top: -60px;
     
 }
+
+/* .row {
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    overflow: hidden;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 0px;
+} */
 
 .recipes {
     text-align: center;
     color: sienna;
     font-family: 'Titan One', cursive;
-    font-size: 20px;
+    font-size: 25px;
+    position: relative;
+    top: -40px;
 }
 
 .kid {
     display: inline-block;
-    padding: 30px;
-    
+    border: 4px dotted sienna;
+    border-radius: 40px;
+    padding: 5px 30px 5px 30px;
+}
+
+a:link {
+    text-decoration: none;
+    color:beige;
+}
+  
+a:visited {
+    text-decoration: none;
+    color: beige;
+ }
+  
+a:hover {
+    text-decoration: none;
+    color: lightblue;
+}
+  
+a:active {
+    text-decoration: none;
 }
