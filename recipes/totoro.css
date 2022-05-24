@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255, 245, 166);
+}
+
+.title {
+    color:rgb(243, 160, 77);
+    font-family: 'Titan One', cursive;
+    text-align: center;
+    font-size: 26px;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+
+.header {
+    color:rgb(153,117,51);
+    font-family:'Fredericka the Great', cursive;
+    font-size: 25px;
+    margin: 25px;
+}
+
+.descript {
+    color:rgb(108,73,27);
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.lists {
+    color:rgb(108,73,27);
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 30px;
+    margin: 35px;
+}
+
+.homelink {
+    font-family: 'Titan One', cursive;
+    font-size: 20px;
+    margin: 25px;
+    padding: 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color:rgb(238, 166, 65);
+}
+
+a:visited {
+    text-decoration: none;
+    color:rgb(238, 166, 65);
+}
+
+a:hover {
+    text-decoration: none;
+    color:rgb(255, 225, 0);
+}
+
+a:active {
+    text-decoration: none;
+}
